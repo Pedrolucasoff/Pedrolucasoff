@@ -42,11 +42,13 @@ Meu foco está em computação em nuvem e desenvolvimento web, com JavaScript, R
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>01 &nbsp; / &nbsp; Cloud Computing</strong><br /><br />
+      <img src="assets/cloud-cover.jpg" width="100%" alt="Cloud Computing — capa em vinho e preto." /><br /><br />
+      <strong>Cloud Computing</strong><br /><br />
       Computação em nuvem e serviços AWS.
     </td>
     <td width="50%" valign="top">
-      <strong>02 &nbsp; / &nbsp; Desenvolvimento Web</strong><br /><br />
+      <img src="assets/web-cover.jpg" width="100%" alt="Desenvolvimento Web — capa em vinho e preto." /><br /><br />
+      <strong>Desenvolvimento Web</strong><br /><br />
       Interfaces e aplicações com JavaScript, React e Node.js.
     </td>
   </tr>
