@@ -37,7 +37,7 @@ Meu foco está em computação em nuvem e desenvolvimento web, com JavaScript, R
   <img src="assets/css-squircle.svg" height="42" alt="CSS" />
 </p>
 
-### Áreas de interesse
+### Áreas de trabalho
 
 <p align="center">
   <img src="assets/cloud-squircle.svg" width="49%" alt="Cloud Computing — computação em nuvem e serviços AWS." />
