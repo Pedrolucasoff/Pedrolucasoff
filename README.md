@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="assets/banner.jpg" width="100%" alt="Pedro Lucas — @Pedrolucasoff. Arte fluida em vinho e preto com elementos espaciais." />
+  <img src="assets/banner-squircle.svg" width="100%" alt="Pedro Lucas — @Pedrolucasoff. Arte fluida em vinho e preto com elementos espaciais." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Pedrolucasoff?tab=repositories"><img src="assets/projects.svg" height="34" alt="Projetos" /></a>
+  <a href="https://github.com/Pedrolucasoff?tab=repositories"><img src="assets/projects.svg" height="38" alt="Projetos" /></a>
   &nbsp;
-  <a href="https://www.instagram.com/pedrolucas_off/"><img src="assets/contact.svg" height="34" alt="Contato pelo Instagram" /></a>
+  <a href="https://wa.me/message/BROWKROP6NSAL1"><img src="assets/contact.svg" height="38" alt="Contato pelo WhatsApp" /></a>
   &nbsp;
-  <a href="https://www.instagram.com/pedrolucas_off/"><img src="assets/social.svg" height="34" alt="Redes sociais" /></a>
+  <a href="https://www.instagram.com/pedrolucas_off/"><img src="assets/social.svg" height="38" alt="Redes sociais" /></a>
 </p>
 
 <br />
 
-<img align="right" src="assets/orbit.jpg" width="235" alt="Planeta com anéis em tons de vinho." />
+<img align="right" src="assets/orbit.png" width="235" alt="Planeta com anéis em tons de vinho." />
 
-## Olá, eu sou Pedro Lucas. 👋
+### Olá, me chamo Pedro Cavalcanti. 👋
 
 **Cloud Computing · AWS · Desenvolvimento Web**
 
-Sou de Recife, Pernambuco, e faço parte do SENAI Pernambuco.
+Sou de Recife, Pernambuco, e sou treinador da WorldSkills!
 
 Meu foco está em computação em nuvem e desenvolvimento web, com JavaScript, React e Node.js.
 
@@ -39,20 +39,15 @@ Meu foco está em computação em nuvem e desenvolvimento web, com JavaScript, R
 
 ### Áreas de interesse
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/cloud-cover.jpg" width="100%" alt="Cloud Computing — capa em vinho e preto." /><br /><br />
-      <strong>Cloud Computing</strong><br /><br />
-      Computação em nuvem e serviços AWS.
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/web-cover.jpg" width="100%" alt="Desenvolvimento Web — capa em vinho e preto." /><br /><br />
-      <strong>Desenvolvimento Web</strong><br /><br />
-      Interfaces e aplicações com JavaScript, React e Node.js.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/cloud-squircle.svg" width="49%" alt="Cloud Computing — computação em nuvem e serviços AWS." />
+  <img src="assets/web-squircle.svg" width="49%" alt="Desenvolvimento Web — JavaScript, React e Node.js." />
+</p>
+
+**Cloud Computing:** computação em nuvem e serviços AWS.
+
+**Desenvolvimento Web:** interfaces e aplicações com JavaScript, React e Node.js.
+
 
 ### Projetos
 
