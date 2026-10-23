@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Pedrolucasoff?tab=repositories"><img src="assets/projects.svg" height="38" alt="Projetos" /></a>
+  <a href="https://github.com/Pedrolucasoff?tab=repositories"><img src="assets/projects-squircle.svg" height="38" alt="Projetos" /></a>
   &nbsp;
-  <a href="https://wa.me/message/BROWKROP6NSAL1"><img src="assets/contact.svg" height="38" alt="Contato pelo WhatsApp" /></a>
+  <a href="https://wa.me/message/BROWKROP6NSAL1"><img src="assets/contact-squircle.svg" height="38" alt="Contato pelo WhatsApp" /></a>
   &nbsp;
-  <a href="https://www.instagram.com/pedrolucas_off/"><img src="assets/social.svg" height="38" alt="Redes sociais" /></a>
+  <a href="https://www.instagram.com/pedrolucas_off/"><img src="assets/social-squircle.svg" height="38" alt="Redes sociais" /></a>
 </p>
 
 <br />
@@ -29,12 +29,12 @@ Meu foco está em computação em nuvem e desenvolvimento web, com JavaScript, R
 ### Tecnologias
 
 <p>
-  <img src="assets/aws.svg" height="42" alt="AWS" />
-  <img src="assets/javascript.svg" height="42" alt="JavaScript" />
-  <img src="assets/react.svg" height="42" alt="React" />
-  <img src="assets/node.svg" height="42" alt="Node.js" />
-  <img src="assets/html.svg" height="42" alt="HTML5" />
-  <img src="assets/css.svg" height="42" alt="CSS" />
+  <img src="assets/aws-squircle.svg" height="42" alt="AWS" />
+  <img src="assets/javascript-squircle.svg" height="42" alt="JavaScript" />
+  <img src="assets/react-squircle.svg" height="42" alt="React" />
+  <img src="assets/node-squircle.svg" height="42" alt="Node.js" />
+  <img src="assets/html-squircle.svg" height="42" alt="HTML5" />
+  <img src="assets/css-squircle.svg" height="42" alt="CSS" />
 </p>
 
 ### Áreas de interesse
